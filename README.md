@@ -72,8 +72,8 @@ Measures buying and selling pressure as a cumulative indicator.
 - 4, Start interacting with the dashboard!
 
 ## 👩‍💻 Author
-**Sheng Yun**
-- Github: [@nickShengY<nickShengY>](https://github.com/nickShengY)
-- Email: <syun13@fordham.edu>/<s24yun@uwaterloo.ca>
+**Shreya Bathini
+**
+
 
 
